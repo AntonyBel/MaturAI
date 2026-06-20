@@ -17,7 +17,7 @@ MaturAI should not be seen as a finished product. Instead, it is a foundational 
 
 Every oral exam conducted through MaturAI can be unique. Every configuration can tell a different story. The goal is not to standardize learning, but to empower creativity, accessibility, and personalization in education.
 
-We hope that, over time, a community of contributors will expand the platform, creating new examination models and learning experiences that are as diverse as the students who use them.
+I hope that, over time, a community of contributors will expand the platform, creating new examination models and learning experiences that are as diverse as the students who use them.
 
 Education should be open. Preparation should be accessible. Learning should be personal. 🎓🤖✨
 
