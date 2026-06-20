@@ -1,6 +1,9 @@
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="image.png" />
 </div>
+<div align="center">
+<img width="1200" height="475" alt="GHVideo" src="MATURAI.mp4" />
+</div>
 
 # Run and deploy MaturAI with Google AI Studio
 
