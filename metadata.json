@@ -1,6 +1,0 @@
-{
-  "name": "Esame di Stato AI",
-  "description": "Simulazione vocale in tempo reale dell'esame di stato con professori AI gestita da Gemini Live.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
