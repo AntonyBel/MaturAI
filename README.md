@@ -10,6 +10,10 @@ This approach provides the best experience, ensuring full compatibility with the
 
 Clone this app in AI Studio: https://ai.studio/apps/f6b0034c-2be8-4d54-8a4d-d989e09ceba9
 
+# Render alternative
+
+Go to https://maturai.onrender.com/ to test a render instance
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
