@@ -2,11 +2,13 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Run and deploy MaturAI with Google AI Studio
 
-This contains everything you need to run your app locally.
+The recommended way to run MaturAI is through Google AI Studio.
 
-View your app in AI Studio: https://ai.studio/apps/f6b0034c-2be8-4d54-8a4d-d989e09ceba9
+This approach provides the best experience, ensuring full compatibility with the multi-agent architecture and the latest features of the application.
+
+Clone this app in AI Studio: https://ai.studio/apps/f6b0034c-2be8-4d54-8a4d-d989e09ceba9
 
 ## Run Locally
 
