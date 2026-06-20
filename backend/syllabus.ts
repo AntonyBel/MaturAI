@@ -1,9 +1,0 @@
-export const syllabus = {
-  italiano: `Autori principali: Pirandello, Svevo, Ungaretti, Montale.`,
-  
-  inglese: `Object-oriented programming (OOP). Comparing programming languages: Scratch vs Python. Computer software and programming, Women pioneers in computing, Cloud computing, Applications, Types of applications, The database. AI and Technology (examples, advantages, disadvantages, digital wellbeing). Computer Networks and the internet (Linking networking, How the Internet began, Internet services: surfing and communication, How the Internet works, Future careers: Network engineer, URL and IP address, Connecting to the Internet, Social and ethical problems with IT). The European Union (short history, Schengen Treaty, Institutions, job opportunities, Erasmus+). From school to work (FSL and CV, cover letter, Job advertisements, The interview, Professional skills, Soft/hard skills, elevator pitch). Literature: George Orwell (Animal farm, OLD MAJOR'S SPEECH, Russian Revolution allegory, 1984, Democracy and leadership in Orwell and Pedro Sanchez). Educazione Civica: Costituzione (human rights, Gaza strip, violence against women, UN, Activism).`,
-  
-  informatica: `DDL, DML, QL, algebra relazionale, connessione e implementazione di flask, gestione database, modello ER.`,
-  
-  sistemi: `Modelli ISO/OSI e TCP, applicazioni di rete, HTTP, FTP, Email, DNS, Telnet, SMTP, POP3, IMAP. VLAN, inter VLAN routing. Reti e Cloud (Introduzione, IaaS, SaaS, AWS, Azure). Crittografia simmetrica (sicurezza reti, crittoanalisi, cifrari DES, 3DES, IDEA, AES). Crittografia asimmetrica (RSA, ibrida). Sistemi di autenticazione e firme digitali, certificati. Sicurezza sistemi (rischi, posta elettronica S/MIME, PGP). VPN (Tunneling). Firewall (pfSense), DMZ. Wireless (topologia, 802.11, WPA2). Modello client/server e sistemi distribuiti (Active directory, dominio). Cablaggio strutturato e progetto di rete.`
-};
