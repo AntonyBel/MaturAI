@@ -8,7 +8,9 @@ The recommended way to run MaturAI is through Google AI Studio.
 
 This approach provides the best experience, ensuring full compatibility with the multi-agent architecture and the latest features of the application.
 
-View your app in AI Studio: https://ai.studio/apps/f6b0034c-2be8-4d54-8a4d-d989e09ceba9
+Clone this app in AI Studio: https://ai.studio/apps/f6b0034c-2be8-4d54-8a4d-d989e09ceba9
+
+You can apply modification with ai studio agent
 
 # Render alternative
 
